@@ -10,7 +10,7 @@ last_name: Zhang
 superuser: true
 
 # Role/position
-role: Principal Investigator (tenure-track)
+role: Principal Investigator (tenure-track professor)
 
 # Organizations/Affiliations
 organizations:
@@ -19,25 +19,32 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research focuses on functional light emitting and imaging materials.
 
 interests:
   - Metal-Organic Materials
   - Luminescence Materials
+  - Crystal engineering
   - Molecular interactions
   - Chirality
     
-education:
+education and working experience:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PI
+      institution: Zhejiang University
+      year: present
+    - course: Reseach Associate
+      institution: University of Cambridge
+      year: 2022
+    - course: PhD in Chemistry, Postdoc
+      institution: University of Limerick
+      year: 2017
+    - course: MSc in Chemistry
+      institution: University of South Florida
+      year: 2014
+    - course: BSc in Chemistry
+      institution: Nankai University
+      year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -71,9 +78,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Shi-Yuan Zhang was born in Tianjin, China. 
