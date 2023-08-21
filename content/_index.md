@@ -15,7 +15,7 @@ sections:
       text: |
         <br>
         
-        Welcome to the Advanced Light Emitting and Imaging Materials (ALEIM) Lab at Zhejiang University. Rooted in the principles of molecular interactions, our lab is dedicated to unraveling the mysteries of illumination phenomena and their chemical functions, with a special focus on designing and synthesizing novel photoluminescent materials for cutting-edge applications in lighting, biosensing, and biomedical imaging. 
+Welcome to the Advanced Light Emitting and Imaging Materials (ALEIM) Lab at Zhejiang University. Rooted in the principles of molecular interactions, our lab is dedicated to unraveling the mysteries of illumination phenomena and their chemical functions, with a special focus on designing and synthesizing novel photoluminescent materials for cutting-edge applications in lighting, biosensing, and biomedical imaging. 
 
 Led by Assistant Professor Shi-Yuan Zhang, our research leverages innovative molecular and nanoscale material design to develop customizable luminescent materials with target emission properties. Nestled at the crossroads of chemistry, materials science, photonics, and nanotechnology, our lab is a beacon of creativity and collaboration to tailor our materials for integration into functional devices and systems.
 
@@ -31,7 +31,7 @@ Join the Light: An Invitation to Collaborate
 
 We extend an invitation to chemists, material scientists, engineers, and seekers of knowledge to embark on this illuminating journey with us. In the ALEIM Lab, chemistry converges with the brilliance of light, paving the way for discoveries that will shape the future. Welcome to a laboratory where molecules and photons dance in harmony, forging a path towards innovation and enlightenment.
 
-  
+#  
   - block: collection
     content:
       title: Latest News
@@ -70,7 +70,7 @@ We extend an invitation to chemists, material scientists, engineers, and seekers
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
-  
+#  
   - block: markdown
     content:
       title:
